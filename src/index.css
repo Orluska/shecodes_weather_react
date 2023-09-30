@@ -1,6 +1,6 @@
 .WeatherApp {
   max-width: 600px;
-  margin: 120px auto;
+  margin: 120px auto 20px auto;
   padding: 20px;
   border-radius: 20px;
   border: 1px solid grey;
@@ -20,4 +20,8 @@ ul {
 h1 {
   line-height: 38px;
   padding: 15px 30px;
+}
+footer {
+  text-align: center;
+  font-size: 10px;
 }
